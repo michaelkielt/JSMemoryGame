@@ -3,3 +3,8 @@
     height: 300px;
     display:flexbox;
 }
+
+img {
+    width: 100px;
+    height: 110px;
+}
